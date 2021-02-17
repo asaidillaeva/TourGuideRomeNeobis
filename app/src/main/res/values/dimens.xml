@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height">110dp</dimen>
+    <dimen name="marginDefault">10dp</dimen>
+    <dimen name="paddingDefault">16dp</dimen>
+    <dimen name="iconHeight">20dp</dimen>
+    <dimen name="paddingStart">40dp</dimen>
+</resources>

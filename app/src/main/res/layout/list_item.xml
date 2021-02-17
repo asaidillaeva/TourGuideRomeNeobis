@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/marginDefault"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:id="@+id/main"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/height"
+        android:layout_margin="@dimen/marginDefault"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/image_view"
+            android:layout_width="@dimen/height"
+            android:layout_height="@dimen/height" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_toRightOf="@id/image_view"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/place_name"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginStart="@dimen/marginDefault"
+                android:layout_weight="2"
+                android:fontFamily="sans-serif-black"
+                android:gravity="center_vertical"
+                android:text="@string/museums" />
+
+            <TextView
+                android:id="@+id/district"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginStart="@dimen/marginDefault"
+                android:layout_weight="1"
+                android:gravity="top"
+                android:text="@string/museums" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="@dimen/marginDefault" />
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/info_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/main"
+        android:layout_marginBottom="@dimen/marginDefault"
+        android:visibility="gone"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="@dimen/paddingDefault">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="@dimen/iconHeight"
+                android:layout_weight="1"
+                android:src="@drawable/ic_info" />
+
+            <TextView
+                android:id="@+id/info_text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="4"
+                android:lineSpacingExtra="6sp"
+                android:paddingStart="@dimen/paddingStart"
+                android:paddingEnd="@dimen/paddingDefault" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/paddingDefault">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="@dimen/iconHeight"
+                android:layout_weight="1"
+                android:src="@drawable/ic_pin" />
+
+            <TextView
+                android:id="@+id/location_text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="4"
+                android:autoLink="map"
+                android:paddingStart="@dimen/paddingStart"
+                android:paddingEnd="@dimen/paddingDefault"
+                android:textColor="@color/secondaryDarkColor" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/phone_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/paddingDefault">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="@dimen/iconHeight"
+                android:layout_marginStart="5dp"
+                android:layout_weight="1"
+                android:src="@drawable/ic_phone" />
+
+            <TextView
+                android:id="@+id/phone_text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="4"
+                android:autoLink="phone"
+                android:paddingStart="@dimen/paddingStart"
+                android:paddingEnd="@dimen/paddingDefault" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

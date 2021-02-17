@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Tour Guide Rome</string>
+    <string name="museums">Museums</string>
+
+    <string name="palazzoDescription">"The Palazzo delle Esposizioni is a neoclassical exhibition hall, cultural center and museum on Via Nazionale in Rome, Italy. Designed by Pio Piacentini, it opened in 1883. It has housed several exhibitions (e.g. Mostra della Rivoluzione Fascista, Mostra Augustea della Romanità), but was temporarily modified during the Fascist era due to its style being thought to be out of step with the times. The building is owned by the City of Rome and the gallery is administered by Azienda Speciale Palaexpo, an agency run by the City's Office for Education and Culture."</string>
+    <string name="palazzoDistrict">194 Via Nazionale</string>
+    <string name="palazzoLocation">00184 Rome, Italy</string>
+    <string name="palazzoName">Palazzo delle Esposizioni</string>
+
+    <string name="capitoliName">Capitoline Museums</string>
+    <string name="capitoliDistrict">Piazza del Campidoglio</string>
+    <string name="capitoliDescription">The Capitoline Museums (Italian: Musei Capitolini) is a single museum containing a group of art and archaeological museums in Piazza del Campidoglio, on top of the Capitoline Hill in Rome, Italy. The historic seats of the museums are Palazzo dei Conservatori and Palazzo Nuovo, facing on the central trapezoidal piazza in a plan conceived by Michelangelo in 1536 and executed over a period of more than 400 years. The history of the museum can be traced to 1471, when Pope Sixtus IV donated a collection of important ancient bronzes to the people of Rome and located them on the Capitoline Hill. Since then, the museums\' collection has grown to include many ancient Roman statues, inscriptions, and other artifacts; a collection of medieval and Renaissance art; and collections of jewels, coins, and other items. The museums are owned and operated by the municipality of Rome.</string>
+    <string name="capitoliLocation">Roma, Lazio 00186</string>
+
+    <string name="borgeseName">Borghese Gallery and Museum</string>
+    <string name="borgeseDistrict">5 Piazzale Scipione Borghese</string>
+    <string name="borgeseLocation">Roma, Lazio 00197</string>
+    <string name="borgeseDescription">The Galleria Borghese (English: Borghese Gallery) is an art gallery in Rome, Italy, housed in the former Villa Borghese Pinciana. At the outset, the gallery building was integrated with its gardens, but nowadays the Villa Borghese gardens are considered a separate tourist attraction. The Galleria Borghese houses a substantial part of the Borghese collection of paintings, sculpture and antiquities, begun by Cardinal Scipione Borghese, the nephew of Pope Paul V(reign 1605–1621). The Villa was built by the architect Flaminio Ponzio, developing sketches by Scipione Borghese himself, who used it as a villa suburbana, a country villa at the edge of Rome.</string>
+
+    <string name="castelLocation">Roma, Lazio 00193</string>
+    <string name="castelDescription">The Mausoleum of Hadrian, usually known as Castel Sant\'Angelo (Italian pronunciation: [kaˈstɛl sanˈtandʒelo]; English: Castle of the Holy Angel), is a towering cylindrical building in Parco Adriano, Rome, Italy. It was initially commissioned by the Roman Emperor Hadrian as a mausoleum for himself and his family. The building was later used by the popes as a fortress and castle, and is now a museum. The structure was once the tallest building in Rome.</string>
+    <string name="castelDistrict">50 Lungotevere Castello</string>
+    <string name="castelName">Castel Sant\'Angelo</string>
+
+    <string name="sistineLocation">00120 Vatican</string>
+    <string name="sistineDescription">Chapel in the Apostolic Palace, the official residence of the pope, in Vatican City. Originally known as the Cappella Magna (\'Great Chapel\'), the chapel takes its name from Pope Sixtus IV, who restored it between 1477 and 1480. Since that time, the chapel has served as a place of both religious and functionary papal activity. Today, it is the site of the papal conclave, the process by which a new pope is selected. The fame of the Sistine Chapel lies mainly in the frescos that decorate the interior, most particularly the Sistine Chapel ceiling and The Last Judgment by Michelangelo.</string>
+    <string name="sistineDistinct">Diocese of Rome</string>
+    <string name="sistineName">Sistine Chapel Tour</string>
+
+    <string name="pantheonLocation">00186 Rome RM Italy</string>
+    <string name="pantheonDescription">Thanks to the unique combination of materials used to built the Pantheon, it’s withstood the test of time, compared to other Roman buildings. Famous Renaissance artists said to be buried in the tomb include Raphael and Annibale Carracci. Go Rome passes are the best choice for maximum savings and flexibility when sightseeing in Rome. Your pass includes Pantheon One-Hour Guided Tour tickets, plus admission to dozens of top attractions.Piazza della Rotonda\n</string>
+    <string name="pantheonDistrict">Piazza della Rotonda</string>
+    <string name="pantheonName">Pantheon</string>
+    <string name="altroveName">Altrove</string>
+    <string name="altroveDistrict">Via Girolamo Benzoni</string>
+    <string name="altoveDescription">Altrove ~is a restaurant with a mission to promote inclusivity and social awareness through food: firstly, by working with a multicultural staff, and secondly, by offering a varied menu of international dishes. It serves as a training ground and economic boon for marginalized young people, including immigrants, refugees and disenfranchised Italians, and gives them the opportunity to hone their cooking and service skills in a supportive space. Open from morning to night, it boasts a café, a pasticceria and a restaurant that combines Mediterranean flavors with the native cuisines of its employees – order a buffet plate at lunch or dishes like tempura, ceviche, cous cous and kofta à la carte at dinner.</string>
+    <string name="altroveLocation">00154 Roma RM, Italy</string>
+    <string name="altrovePhone">+39065746576</string>
+    <string name="BarredName">Barred</string>
+    <string name="BarredDescription">With its hipster aesthetic, alternative playlist and notable selection of orange wines, Barred brings a dose of Pigneto to Re di Roma. Owned and operated by Tiziano and Mirko Pacucci, two young Roman brothers with a passion for food and drinks, Barred offers a small but tightly-curated selection of creative, comfort dishes in which seasonal ingredients sing. You’ll find entrées like sautéed spinach with black garlic and mushroom ragù and pappardelle with artichokes and licorice. Enjoy tapas at the bar or opt for a seat at one of the few tables in this cozy spot.\n</string>
+    <string name="BarredDistrict">" Via Cesena"</string>
+    <string name="BarredLocation">00182 Roma RM, Italy</string>
+    <string name="BarredPhone">+390697273382</string>
+    <string name="Bistrot64Name">Bistrot64</string>
+    <string name="Bistrot64Description">Hailed as the most affordable Michelin-starred restaurant in Italy, Bistrot64 is not only worth a visit for its excellent value but for its scintillating flavor combinations that fuse Italian cuisine with Japanese aromas. Chef Kotaro Noda’s dishes are masterpieces, with color playing an important role throughout the meal from the amuse-bouche to the desserts, named for their bright hues. Look out for dishes like blue risotto served with lemon and thyme, and purple potatoes served with blackberries and mascarpone.</string>
+    <string name="Bistrot64District">Via Guglielmo Calderini</string>
+    <string name="Bistrot64Location">00196 Roma RM, Italy</string>
+    <string name="Bistrot64Phone">+39063235531</string>
+    <string name="EgoName">Ego Bistrot</string>
+    <string name="EgoDescription">Trastevere is better known for its classic trattorias than its fine dining options so Ego Bistrot is a welcome addition to the neighborhood. Set on the top floor of the 17th century Residenza Doria Pamphilj, the restaurant combines high-end cuisine with sweeping views of the city rooftops. The romantic terrace is perfect for dining al fresco and the menu has an ample selection of fresh seafood and shellfish. A bowl of cacio e pepe is kicked up a notch with red prawns, yuzu and mint, while spaghetti come tossed with monk fish, fennel, olives and grapefruit. [Update: Ego Bistrot has closed since this article was published.</string>
+    <string name="EgoDistrict">" Lungotevere Ripa"</string>
+    <string name="EgoLocation">00153 Roma RM, Italy</string>
+    <string name="EgoPhone">+393925702096</string>
+    <string name="EpiroName">Epiro</string>
+    <string name="EpiroDescription">Epiro has been a popular spot since it first opened on a quiet corner in San Giovanni back in 2013. With modern dishes, natural wines and foraged ingredients, Epiro was among the first contemporary locales to serve truly satisfying entrées that combined flavors, colors and textures in a novel way. From February 2019, Epiro will transition into a cave à manger, or a tapas bar, with a focus on wines and a small selection of shareable plates that make the most of the season’s ingredients.</string>
+    <string name="EpiroDistrict">Piazza Epiro</string>
+    <string name="EpiroLocation">00183 Roma RM, Italy</string>
+    <string name="EpiroPhone">+390669317603</string>
+    <string name="FernandaName">Fernanda</string>
+    <string name="FernandaDescription">Fernanda is a restaurant ahead of the game, thanks to the keen intuition and foresight of its talented team (the whole staff took a course on fermented vegetables years ago) and chef Davide Del Duca’s cuisine is refreshingly down to earth – quite literally. Roots and peels are prominent ingredients and while that may sound incongruous to most, these too-often-discounted elements are so expertly prepared, they lead as the star of the dish. The desserts are the perfect bookend to the meal: the black garlic foam with porter beer cream, tuber peels and chocolate crumble is a standout.</string>
+    <string name="FernandaDistrict">Via Crescenzo del Monte</string>
+    <string name="FernandaLocation">18, 00153 Roma RM, Italy</string>
+    <string name="FernandaPhone">+393283847924</string>
+    <string name="VillaName">Villa Doria Pamphili</string>
+    <string name="VillaDescription">Monteverde\",\"Villa Doria Pamphili is the largest landscaped park in the city. Like all of Rome’s villa parks, it began as a suburban villa with garden and originally belonged to the papal Pamphili family. When the family line died out, the pope granted the property to Prince Giovanni Andrea IV Doria who had married a Pamphili daughter. The focal point of the garden is the stately Casino del Bel Respiro 17th-century villa with its surrounded landscaped parterre gardens. The large park was split in two when a thoroughfare was built for the 1960 Olympic Games in Rome but pedestrians can cross over on a raised road that was put in place for the Jubilee Year in 2000.</string>
+    <string name="VillaDictrict">Monteverde</string>
+    <string name="VillaLocation">00152 Roma RM, Italy</string>
+    <string name="BotanicName">Botanic Garden</string>
+    <string name="BotanicDistrict">Largo Cristina di Svezia</string>
+    <string name="BotanicDescription">The oft-overlooked Botanical Garden of Rome is a wonderful natural retreat in the middle of Trastevere, overlooking the 17th-century Palazzo Corsini. The garden was established in 1883 and today contains more than 3,000 plant species, including a Japanese garden, bamboo forest and rose garden, as well as numerous greenhouses housing cacti, bonsai, orchids and other flora. Climb up to the top of the garden for spectacular views of Rome peeking out from behind the lush plants.</string>
+    <string name="BotanicLocation">00165 Roma RM, Italy</string>
+    <string name="VaticanName">Vatican Gardens</string>
+    <string name="VaticanDescription">A well-kept secret in Rome, the Vatican Gardens are a delightful way to spend an afternoon, free of the crowds of St. Peter’s Basilica and the Vatican Museums. The gardens date back to 1279 when Pope Nicholas III relocated the papal residence from the Lateran Palace to the Vatican. The gardens contain multiple landscaped terraces, fountains and glimpses of Michelangelo’s dome. Note that the Vatican Gardens are only open to the public during the months of June, July and August. Another Pontifical Villa Garden worth a visit is Villa Barberini, located at the Pope’s summer residence in Castel Gandolfo, accessible by train.</string>
+    <string name="VaticanDistrict">Via Paolo VI</string>
+    <string name="VaticanLocation">00120 Città del Vaticano, Vatican</string>
+    <string name="akvedukName">Parco degli Acquedotti</string>
+    <string name="akvedukDescription">Few images are as illustrative of Rome as that of Roman pines juxtaposed with ancient aqueducts. The expansive Park of the Aqueducts in the south of the city is located near the ancient Appian Way and contains part of the Acqua Claudia, constructed between 38 -52 AD and considered one of the four great aqueducts of ancient Rome. Due to its photogenic appeal, and proximity to Rome’s Cinecittà Film studios, the park has been featured in many notable Italian films including La Dolce Vita and La Grande Bellezza.</string>
+    <string name="akvedukDistrict">" Via Lemonia"</string>
+    <string name="akvedukLocation">00174 Roma RM, Italy</string>
+    <string name="orabgeName">Orange Gardens</string>
+    <string name="orangeDescription">The Orange Trees Garden (Italian: Giardino degli aranci) is the name used in Rome to describe the Savello park (Parco Savello). It is about 7,800 square meters and is located on the Aventine Hill. The park offers an excellent view of the city. The garden, as it is today, was designed in 1932 by Raffaele De Vico. [1]It was constructed to offer public access to the view from the side of the hill, creating a new ‘’belvedere’’, to be added to the existing viewpoints in Rome from the Pincian Hill and the Janiculum.\n</string>
+    <string name="orangeDistrict">Piazza Pietro D\'Illiria</string>
+    <string name="orangeLocation">00153 Roma RM, Italy</string>
+    <string name="AppianName">Appian Way Regional Park</string>
+    <string name="AppianDescription">The park aims to be a \"green wedge\" between the centre of Rome and the Alban Hills to the southeast. It contains a majority of the relics of Ancient Rome to be found outside the city centre. It consists of the Appian Way, from the centre of Rome to the 10th Mile, including the Villa of the Quintilii; the Park of the Caffarella; the Tombs of Via Latina archaeological zone; and the Aqueduct Park as well as other areas not accessible to the public.</string>
+    <string name="AppianDistrict">Via Appia Antica</string>
+    <string name="AppianLocation">" 00178 Roma RM, Italy"</string>
+</resources>
